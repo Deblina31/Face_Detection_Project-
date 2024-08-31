@@ -28,5 +28,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## ⭐️ Show Your Support
 If you find this project useful, please **star** it on GitHub. It helps others find it too!
 
-[![GitHub stars](https://img.shields.io/github/stars/Deblina31/Face_Detection_Project?style=social)](https://github.com/Deblina31/Face_Detection_Project/stargazers)
+
 
